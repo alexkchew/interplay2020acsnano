@@ -1,0 +1,3 @@
+[submodule "gnpbuilder"]
+	path = gnpbuilder
+	url = git@github.com:alexkchew/gnpbuilder.git

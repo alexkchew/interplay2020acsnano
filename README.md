@@ -6,7 +6,10 @@ of Monolayer-Protected Gold Nanoparticles.” *ACS Nano*. **2021**, *15*, 3, 453
 # Initiation and requirements
 To download all the code:
 ```buildoutcfg
+# Clone the repository
 git clone git@github.com:alexkchew/interplay2020acsnano.git
+# Add any submodules crucial to this repository
+git submodule update --init
 ```
 
 This is in a work of progress - still updating this page!
