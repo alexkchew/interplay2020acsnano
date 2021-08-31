@@ -12,9 +12,6 @@ git clone git@github.com:alexkchew/interplay2020acsnano.git
 git submodule update --init
 ```
 
-This is in a work of progress - still updating this page!
-
-
 
 # Zenodo repository
 
@@ -25,4 +22,6 @@ To install, download the repository and decompress using the command below:
 # Command to decompress *.tar.gz files
 tar -xvf interplay2020acsnano_zenodo.tar.gz
 ```
+
+This is in a work of progress - still updating this page! Estimated time of completion: October 2021
 
