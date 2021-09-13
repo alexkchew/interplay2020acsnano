@@ -10,7 +10,23 @@ To download all the code:
 git clone git@github.com:alexkchew/interplay2020acsnano.git
 # Add any submodules crucial to this repository
 git submodule update --init
+# Pulling submodules
+git pull
 ```
+## Installing Python environment
+To access the same Python environment, install a conda environment using the Anaconda suite. 
+
+
+# Overview
+
+In this work, we quantified the hydrophobicity of monolayer-protected gold nanoparticles (GNPs) using atomistic 
+molecular dynamics (MD) simulations. First, classical MD simulations were used to model GNPs in solution. Then, we 
+compute the local hydration free energies at the nanoparticle-water interface by analyzing the interfacial fluctuations 
+of water. These computational tools allow us to analyze interfacial hydrophobicity on non-planar geometries, which can 
+yield insights into how GNPs may interact with other biomolecules. 
+
+![Overview of GNP model development](/images/full_system_setup_main.png)
+
 
 
 # Zenodo repository
