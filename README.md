@@ -39,5 +39,5 @@ To install, download the repository and decompress using the command below:
 tar -xvf interplay2020acsnano_zenodo.tar.gz
 ```
 
-This is in a work of progress - still updating this page! Estimated time of completion: October 2021
+This is in a work of progress - still updating this page! Estimated time of completion: November 2021
 
