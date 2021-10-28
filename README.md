@@ -41,7 +41,10 @@ To access the same Python environment, install a conda environment using the Ana
 
 ### Creating environment using pre-installed .yml file
 ```
-conda env create --file interplay2020acsnano.yml
+# Create environment with yml
+conda env create --file interplay2020acsnano.yml -n interplay2020acsnano
+# Activating new conda environment.
+conda activate interplay2020acsnano
 ```
 
 ### Creating environment from scratch
