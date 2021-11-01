@@ -22,6 +22,10 @@ For both workflows, a 50 ns *NVT* restrained production simulation was performed
 fluctuations at the SAM-water interface and compute hydration maps.
 
 # Software
+The list of necessary software is shown below:
+- [Gromacs 2016](https://manual.gromacs.org/documentation/2016/index.html)
+- [Conda Version 4.10.3](https://docs.anaconda.com/anaconda/install/index.html)
+- Python Version 3.6.8 or greater (instructions shown below to install with conda)
 
 ## Installation
 To download all codes:
@@ -70,10 +74,6 @@ spyder --new-instance
 # conda env export --name interplay2020acsnano > interplay2020acsnano.yml
 ```
 
-
-
-
-
 # Zenodo repository
 
 All simulations and large data is stored within the Zenodo repository linked below:
@@ -85,8 +85,27 @@ To install, download the repository from the link and decompress using the comma
 tar -xvf interplay2020acsnano_zenodo.tar.gz
 ```
 
-# Step-by-step
+# Step-by-step instructions
+The instructions have been divided into multiple parts, as summarized below:
+1. **Setting up MD simulations**: Section describes how to set up MD simulations
+   
+2. **Performing analysis of MD simulations**: After MD simulations are performed, 
+   post-analysis scripts are described in this section.
+   
+3. **Generating published images**: Python scripts used to generate images used for the publication 
+   are described in this section. 
+
+## 1. Setting up MD simulations
+
+### 1.1. Generating ligand/solvent force field parameters
+
+### 1.2. 
+
+
+## 2. Performing analysis of MD simulations
+
+
+## 3. Generating published images
 
 
 This is in a work of progress - still updating this page! Estimated time of completion: December 2021
-
