@@ -77,7 +77,7 @@ spyder --new-instance
 # Zenodo repository
 
 All simulations and large data is stored within the Zenodo repository linked below:
-[Zenodo Link]()
+[Zenodo Link (Not available yet!)]()
 
 To install, download the repository from the link and decompress using the command below:
 ```buildoutcfg
@@ -99,8 +99,6 @@ The instructions have been divided into multiple parts, as summarized below:
 
 ### 1.1. Generating ligand/solvent force field parameters
 
-### 1.2. 
-
 
 ## 2. Performing analysis of MD simulations
 
@@ -108,4 +106,4 @@ The instructions have been divided into multiple parts, as summarized below:
 ## 3. Generating published images
 
 
-This is in a work of progress - still updating this page! Estimated time of completion: December 2021
+This is in a work of progress - still updating this page! Estimated time of completion: May 2022
